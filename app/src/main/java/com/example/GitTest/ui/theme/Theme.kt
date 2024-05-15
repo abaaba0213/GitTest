@@ -1,4 +1,4 @@
-package com.example.Gesture.ui.theme
+package com.example.GitTest.ui.theme
 
 import android.app.Activity
 import android.os.Build

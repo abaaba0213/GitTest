@@ -1,4 +1,4 @@
-package com.example.Gesture.ui.theme
+package com.example.GitTest.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
