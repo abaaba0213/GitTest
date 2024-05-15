@@ -1,4 +1,4 @@
-package com.example.gittest
+package com.example.Gesture
 
 import org.junit.Test
 
